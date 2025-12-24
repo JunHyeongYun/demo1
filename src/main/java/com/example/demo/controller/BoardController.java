@@ -45,7 +45,7 @@ public class BoardController {
 	// 윈도우 `111
 	private static final String UPLOAD_DIR = "C:/upload/";
 	
-	// 리눅스
+	// 리눅스333
 //	private static final String UPLOAD_DIR = "/opt/tomcat9/upload/";
 	
 	@GetMapping("/boardfile")
